@@ -1,5 +1,5 @@
  body {
-    padding-left: 11em;
+    padding-left: 15em;
      font-family: Georgia, "Bookman old style",
           Times, serif;
     color: purple;
@@ -11,7 +11,7 @@
     position: absolute;
     top: 2em;
     left: 1em;
-    width: 9em }
+    width: 10em }
     h1 {
     font-family: Helvetica, Geneva, Arial,
           SunSans-Regular, sans-serif }
